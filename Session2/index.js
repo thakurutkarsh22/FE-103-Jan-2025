@@ -79,7 +79,7 @@ form.addEventListener("submit", (event) => {
         datezazzz: date
     }
 
-    // VALIDATION 
+    // FORM VALIDATION 
 
     console.log(bookingDetail);
 })
